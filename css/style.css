@@ -1,0 +1,28 @@
+body {
+  font-family: "Roboto", sans-serif;
+}
+
+h1.logo {
+  font-family: "Playfair Display", serif;
+  font-weight: 700;
+  font-size: 1.75rem;
+}
+
+nav a {
+  color: #000;
+  text-decoration: none;
+  font-weight: 500;
+}
+
+nav a:hover {
+  text-decoration: underline;
+}
+
+.basket-item img {
+  border-radius: 10px;
+}
+
+.order-summary h5 {
+  font-family: "Playfair Display", serif;
+  font-weight: 700;
+}
